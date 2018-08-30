@@ -6,5 +6,9 @@ public class Test {
 		System.out.println("second part");
 
 	}
+	
+	private String sayHello() {
+		return "Hi";
+	}
 
 }
